@@ -1,0 +1,174 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "username": "bhagya",
+      "password": "123",
+      "id": 2
+    },
+    {
+      "username": "laxmi",
+      "password": "456",
+      "id": 3
+    },
+    {
+      "username": "bha",
+      "password": "890",
+      "id": 4
+    },
+    {
+      "username": "",
+      "password": "",
+      "id": 5
+    },
+    {
+      "username": "",
+      "password": "",
+      "id": 6
+    },
+    {
+      "username": "",
+      "password": "",
+      "id": 7
+    },
+    {
+      "username": "",
+      "password": "",
+      "id": 8
+    },
+    {
+      "username": "bhaee",
+      "password": "454545",
+      "id": 9
+    },
+    {
+      "username": "lksdf",
+      "password": "wefawdf",
+      "id": 10
+    },
+    {
+      "username": "",
+      "password": "",
+      "id": 11
+    },
+    {
+      "username": "",
+      "password": "",
+      "id": 12
+    },
+    {
+      "username": "",
+      "password": "",
+      "id": 13
+    },
+    {
+      "username": "",
+      "password": "",
+      "id": 14
+    },
+    {
+      "username": "",
+      "password": "",
+      "id": 15
+    },
+    {
+      "username": "",
+      "password": "",
+      "id": 16
+    },
+    {
+      "username": "",
+      "password": "",
+      "id": 17
+    },
+    {
+      "username": "",
+      "password": "",
+      "id": 18
+    },
+    {
+      "username": "",
+      "password": "",
+      "id": 19
+    },
+    {
+      "username": "",
+      "password": "",
+      "id": 20
+    },
+    {
+      "username": "",
+      "password": "",
+      "id": 21
+    },
+    {
+      "username": "",
+      "password": "",
+      "id": 22
+    },
+    {
+      "username": "",
+      "password": "",
+      "id": 23
+    },
+    {
+      "username": "",
+      "password": "",
+      "id": 24
+    },
+    {
+      "username": "",
+      "password": "",
+      "id": 25
+    },
+    {
+      "username": "nujnm",
+      "password": "nhyuh",
+      "id": 26
+    },
+    {
+      "username": "raajjjiiii",
+      "password": "666767",
+      "id": 27
+    },
+    {
+      "username": "",
+      "password": "",
+      "id": 28
+    },
+    {
+      "username": "123",
+      "password": "456",
+      "id": 29
+    },
+    {
+      "username": "1233",
+      "password": "3432",
+      "id": 30
+    },
+    {
+      "username": "asd",
+      "password": "scd",
+      "id": 31
+    },
+    {
+      "username": "fgbthgb",
+      "password": "rth",
+      "id": 32
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
